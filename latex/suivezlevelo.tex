@@ -1,0 +1,51 @@
+%\documentclass[  twoside, 11pt, a4paper,footinclude=true,  headinclude=true,  cleardoublepage=empty]{scrbook}
+%\documentclass[a4paper]{article}
+
+\documentclass[a4paper,11pt,twoside]{book}
+\usepackage[DIV=14,BCOR=2mm,headinclude=true,footinclude=false]{typearea}
+
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{acronym}
+\usepackage{grffile}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[frenchb]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{index}
+
+\DeclareUnicodeCharacter{20AC}{}
+\DeclareUnicodeCharacter{B4}{'}
+\DeclareUnicodeCharacter{14D}{o}
+\DeclareUnicodeCharacter{FF1A}{ }
+\DeclareUnicodeCharacter{FF01}{ }
+\DeclareUnicodeCharacter{16B}{ }
+\DeclareUnicodeCharacter{B0}{ }
+\DeclareUnicodeCharacter{2033}{ }
+\DeclareUnicodeCharacter{B5}{ }
+
+\usepackage[T1]{fontenc}
+\usepackage{array}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{Suivez le vélo}
+
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+
+%\graphicspath{{C:/MyWebSites/Backup/souivezlevelo/images_high/wp-content/}}
+\graphicspath{{C:/MyWebSites/Backup/souivezlevelo/images_low/wp-content/}}
+
+\title{Suivez le vélo}
+\author{Rémi Carne}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+\input{content.tex}
+
+
+\end{document}
