@@ -4,6 +4,7 @@
 \documentclass[a4paper,11pt,twoside]{book}
 \usepackage[DIV=14,BCOR=2mm,headinclude=true,footinclude=false]{typearea}
 
+\def\mywidth{0.8\textwidth}
 \usepackage{amsmath}
 \usepackage{amsthm}
 \usepackage{acronym}
@@ -13,6 +14,8 @@
 \usepackage[frenchb]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{index}
+\usepackage{titlesec}
+\titleformat{\chapter}[hang]{\bf\huge}{\thechapter}{2pc}{}
 
 \DeclareUnicodeCharacter{20AC}{}
 \DeclareUnicodeCharacter{B4}{'}
