@@ -1,10 +1,5 @@
-%\documentclass[  twoside, 11pt, a4paper,footinclude=true,  headinclude=true,  cleardoublepage=empty]{scrbook}
-%\documentclass[a4paper]{article}
-
-\documentclass[a4paper,11pt,twoside]{book}
-\usepackage[DIV=14,BCOR=2mm,headinclude=true,footinclude=false]{typearea}
-
-\def\mywidth{0.8\textwidth}
+\documentclass[a5paper,12pt,twoside,openany]{book}
+\usepackage[top=2cm, bottom=1.25cm, left=1.5cm, right=1.5cm, bindingoffset=8mm,headsep=5mm]{geometry}
 \usepackage{amsmath}
 \usepackage{amsthm}
 \usepackage{acronym}
@@ -13,13 +8,16 @@
 \usepackage{graphicx}
 \usepackage[frenchb]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage{index}
+\usepackage{suffix}
+\usepackage{xstring}
+\usepackage{url}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+\usepackage{sectsty}
+\usepackage[usenames, dvipsnames]{color}
 \usepackage[official]{eurosym}
-\usepackage{titlesec}
-\usepackage{helvet}
-\renewcommand{\familydefault}{\sfdefault}
 
-%\titleformat{\chapter}[hang]{\bf\huge}{\thechapter}{2pc}{}
+
 
 \DeclareUnicodeCharacter{20AC}{\euro}
 \DeclareUnicodeCharacter{B4}{'}
@@ -31,30 +29,30 @@
 \DeclareUnicodeCharacter{2033}{''}
 \DeclareUnicodeCharacter{B5}{$\mu$}
 
+% Font
+\renewcommand*\rmdefault{iwona}
 
-\usepackage[T1]{fontenc}
-\usepackage{array}
 
+% Headers and footers
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\lhead{Suivez le vélo}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhf{}
+\fancyhead[RO]{\color{RoyalBlue} \it \leftmark}
 
-\cfoot{\thepage}
-\renewcommand{\headrulewidth}{0.4pt}
-%\renewcommand{\headrule}{\hbox to\headwidth{ \color{Aquamarine}\leaders\hrule height \headrulewidth\hfill}}
-%\renewcommand{\footrulewidth}{0.4pt}
+% Chapter pages style
+\fancypagestyle{plain}{\fancyhf{}}
+\chapterfont{\color{RoyalBlue}}
+\sectionfont{\color{Gray} \large}
 
+% Images width
+\def\mywidth{0.9\textwidth}
+
+%%%  CHANGE IMAGE PATH HERE %%%
 %\graphicspath{{C:/MyWebSites/Backup/souivezlevelo/images_high/wp-content/}}
 \graphicspath{{C:/MyWebSites/Backup/souivezlevelo/images_low/wp-content/}}
 
-\title{Suivez le vélo}
-\author{Rémi Carne}
 
 \begin{document}
-\maketitle
-\tableofcontents
-\newpage
 \input{content.tex}
-
-
 \end{document}
