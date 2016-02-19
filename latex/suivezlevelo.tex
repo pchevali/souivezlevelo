@@ -14,18 +14,23 @@
 \usepackage[frenchb]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{index}
+\usepackage[official]{eurosym}
 \usepackage{titlesec}
-\titleformat{\chapter}[hang]{\bf\huge}{\thechapter}{2pc}{}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 
-\DeclareUnicodeCharacter{20AC}{}
+%\titleformat{\chapter}[hang]{\bf\huge}{\thechapter}{2pc}{}
+
+\DeclareUnicodeCharacter{20AC}{\euro}
 \DeclareUnicodeCharacter{B4}{'}
-\DeclareUnicodeCharacter{14D}{o}
-\DeclareUnicodeCharacter{FF1A}{ }
-\DeclareUnicodeCharacter{FF01}{ }
-\DeclareUnicodeCharacter{16B}{ }
-\DeclareUnicodeCharacter{B0}{ }
-\DeclareUnicodeCharacter{2033}{ }
-\DeclareUnicodeCharacter{B5}{ }
+\DeclareUnicodeCharacter{14D}{\={o}}
+\DeclareUnicodeCharacter{FF1A}{:}
+\DeclareUnicodeCharacter{FF01}{!}
+\DeclareUnicodeCharacter{16B}{\={u}}
+\DeclareUnicodeCharacter{B0}{$^\circ$}
+\DeclareUnicodeCharacter{2033}{''}
+\DeclareUnicodeCharacter{B5}{$\mu$}
+
 
 \usepackage[T1]{fontenc}
 \usepackage{array}
@@ -36,6 +41,7 @@
 
 \cfoot{\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\headrule}{\hbox to\headwidth{ \color{Aquamarine}\leaders\hrule height \headrulewidth\hfill}}
 %\renewcommand{\footrulewidth}{0.4pt}
 
 %\graphicspath{{C:/MyWebSites/Backup/souivezlevelo/images_high/wp-content/}}
