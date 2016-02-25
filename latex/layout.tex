@@ -1,0 +1,57 @@
+\documentclass[a5paper,10pt,twoside,openany]{book}
+
+\usepackage[top=20mm, bottom=15mm, left=15mm, right=15mm, bindingoffset=8mm, headsep=2mm]{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{acronym}
+\usepackage{grffile}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[frenchb]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{suffix}
+\usepackage{xstring}
+\usepackage{url}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+\usepackage{sectsty}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[official]{eurosym}
+
+\DeclareUnicodeCharacter{20AC}{\euro}
+\DeclareUnicodeCharacter{B4}{'}
+\DeclareUnicodeCharacter{14D}{\={o}}
+\DeclareUnicodeCharacter{FF1A}{:}
+\DeclareUnicodeCharacter{FF01}{!}
+\DeclareUnicodeCharacter{16B}{\={u}}
+\DeclareUnicodeCharacter{B0}{$^\circ$}
+\DeclareUnicodeCharacter{2033}{''}
+\DeclareUnicodeCharacter{B5}{$\mu$}
+
+% Font
+\renewcommand*\rmdefault{iwona}
+
+% Headers and footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhf{}
+\fancyhead[RO]{{\color{RoyalBlue} \large \sc \MakeLowercase{\leftmark}} \parbox[b][1mm]{6mm}{\flushright \color{Gray} \footnotesize \thepage}}
+\fancyhead[LE]{\parbox[b][1mm]{6mm}{\color{Gray} \footnotesize \thepage}}
+
+% Chapter pages style
+\fancypagestyle{plain}{\fancyhf{}}
+\chapterfont{\color{RoyalBlue}}
+\sectionfont{\color{Gray} \large}
+
+% Images width
+\def\mywidth{0.85\textwidth} % largeur photos paysage classiques, hauteur des photos portraits
+\def\mywidthreduced{0.82\textwidth} % largeur de photo réduite quand ca coince (permet de faire rentrer une ligne de texte en plus dans la page)
+\def\mytweetwidth{0.8\textwidth} % largeur des photos des tweets
+
+% Hyphenation
+\hyphenation{con-vain-cu}
+
+%%%  CHANGE IMAGE PATH HERE %%%
+%\graphicspath{{C:/MyWebSites/Backup/souivezlevelo/images_high/wp-content/}}
+\graphicspath{{C:/MyWebSites/Backup/souivezlevelo/images_low/wp-content/}}
