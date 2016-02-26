@@ -27,7 +27,7 @@ Etat de progression des modifications
 | {2015-05-19-le-lac-titicaca.tex}|   | | |
 | {2015-05-22-la-route-puno-cusco.tex}|   | | |
 | {2015-05-31-cusco-et-la-vallee-sacree-des-incas.tex}|   | | |
-| {2015-06-2-le-trek-du-salkantay-vers-le-machu-picchu.tex}|   | | |
+| {2015-06-2-le-trek-du-salkantay-vers-le-machu-picchu.tex}|X | | |
 | {2015-06-5-lima.tex}| X  | | |
 | {2015-06-13-huaraz-cordillera-blanca-et-trujillo.tex}|  X | | |
 | {2015-06-22-lequateur-de-cuenca-a-banos.tex}| X  | | |
