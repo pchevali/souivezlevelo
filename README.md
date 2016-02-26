@@ -1,6 +1,6 @@
 # souivezlevelo
 
-Etat de progression des correction
+Etat de progression des modifications
 
 #TOME 1
 | Chapitre | Mise en page | Correction | Relecture |
