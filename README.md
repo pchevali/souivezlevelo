@@ -8,7 +8,7 @@ Etat de progression des modifications
 | {2014-10-26-itineraire.tex}| X| X| |
 | {2014-10-29-le-velo.tex}|  X| X| |
 | {2014-11-11-sortie-de-preparation-toulouse-figeac.tex}|  X|X | |
-| {2015-01-21-liste-materiel-pour-voyager-en-velo.tex}|  X| | |
+| {2015-01-21-liste-materiel-pour-voyager-en-velo.tex}|  X|X | |
 | {2015-02-07-depart-j-1.tex}|  X| | |
 | {2015-02-13-ca-commence-vers-lile-de-chiloe.tex}|  X| | |
 | {2015-02-18-journee-chez-les-pingouins.tex}|  X| | |
