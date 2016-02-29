@@ -38,8 +38,8 @@ Etat de progression des modifications
 #TOME 2
 | Chapitre | Mise en page | Correction | Relecture |
 |----------|--------------|------------|-----------|
-| {2015-07-28-tokyo.tex}|   | | |
-| {2015-08-7-de-tokyo-a-nagano.tex}|   | | |
+| {2015-07-28-tokyo.tex}|  X | | |
+| {2015-08-7-de-tokyo-a-nagano.tex}|X   | | |
 | {2015-08-15-de-nagano-a-gujo.tex}|   | | |
 | {2015-08-24-de-gujo-a-kyoto.tex}|   | | |
 | {2015-09-3-de-kyoto-a-osaka.tex}|   | | |
