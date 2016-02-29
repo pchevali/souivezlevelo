@@ -19,10 +19,10 @@ Etat de progression des modifications
 | {2015-03-14-valparaiso.tex}|  X| | |
 | {2015-03-20-geysers-del-tatio.tex}|  X| | |
 | {2015-04-2-sud-lipez.tex}|  X| | |
-| {2015-04-4-salar-duyuni.tex}|   | | |
-| {2015-04-13-potosi.tex}|  | | |
-| {2015-04-15-sucre.tex}|   | | |
-| {2015-04-28-cochabamba-et-le-parc-de-torotoro.tex}|   | | |
+| {2015-04-4-salar-duyuni.tex}|   X| | |
+| {2015-04-13-potosi.tex}|  X| | |
+| {2015-04-15-sucre.tex}|   X| | |
+| {2015-04-28-cochabamba-et-le-parc-de-torotoro.tex}| X  | | |
 | {2015-05-11-la-paz-huayna-potosi-et-route-de-la-mort.tex}| X  | | |
 | {2015-05-19-le-lac-titicaca.tex}| X  | | |
 | {2015-05-22-la-route-puno-cusco.tex}| X  | | |
