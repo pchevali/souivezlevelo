@@ -44,12 +44,12 @@ Etat de progression des modifications
 | {2015-08-24-de-gujo-a-kyoto.tex}|  X | | |
 | {2015-09-3-de-kyoto-a-osaka.tex}|   X| | |
 | {2015-09-14-shanghai.tex}|  X | | |
-| {2015-09-22-de-xian-a-jiuzhaigou.tex}|   | | |
-| {2015-09-29-de-jiuzhaigou-a-chengdu.tex}|   | | |
-| {2015-10-8-chengdu-emeishan-et-leshan.tex}|   | | |
-| {2015-10-16-province-du-guizhou.tex}|   | | |
-| {2015-10-24-guilin-xingping-et-yangshuo.tex}|   | | |
-| {2015-10-30-hong-kong.tex}|   | | |
+| {2015-09-22-de-xian-a-jiuzhaigou.tex}|  X | | |
+| {2015-09-29-de-jiuzhaigou-a-chengdu.tex}|X   | | |
+| {2015-10-8-chengdu-emeishan-et-leshan.tex}| X  | | |
+| {2015-10-16-province-du-guizhou.tex}| X  | | |
+| {2015-10-24-guilin-xingping-et-yangshuo.tex}| X  | | |
+| {2015-10-30-hong-kong.tex}| X  | | |
 | {2015-11-8-le-kerala-de-cochin-a-munnar.tex}|   | | |
 | {2015-11-15-le-kerala-de-munnar-a-kovalam.tex}|   | | |
 | {2015-11-25-le-tamil-nadu-de-kanyakumari-a-thanjavur.tex}|   | | |
