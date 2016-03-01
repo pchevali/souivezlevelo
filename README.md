@@ -41,9 +41,9 @@ Etat de progression des modifications
 | {2015-07-28-tokyo.tex}|  X | | |
 | {2015-08-7-de-tokyo-a-nagano.tex}|X   | | |
 | {2015-08-15-de-nagano-a-gujo.tex}|  X | | |
-| {2015-08-24-de-gujo-a-kyoto.tex}|   | | |
-| {2015-09-3-de-kyoto-a-osaka.tex}|   | | |
-| {2015-09-14-shanghai.tex}|   | | |
+| {2015-08-24-de-gujo-a-kyoto.tex}|  X | | |
+| {2015-09-3-de-kyoto-a-osaka.tex}|   X| | |
+| {2015-09-14-shanghai.tex}|  X | | |
 | {2015-09-22-de-xian-a-jiuzhaigou.tex}|   | | |
 | {2015-09-29-de-jiuzhaigou-a-chengdu.tex}|   | | |
 | {2015-10-8-chengdu-emeishan-et-leshan.tex}|   | | |
