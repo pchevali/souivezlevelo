@@ -15,7 +15,7 @@ Etat de progression des modifications
 | {2015-02-22-traversee-de-chiloe.tex}|  X| X| |
 | {2015-02-28-la-carretera-austral.tex}|  X| | |
 | {2015-03-8-lile-de-paques.tex}|  X| | |
-| {2015-03-11-santiago-du-chili.tex}|  X| | |
+| {2015-03-11-santiago-du-chili.tex}|  X|X | |
 | {2015-03-14-valparaiso.tex}|  X| | |
 | {2015-03-20-geysers-del-tatio.tex}|  X| | |
 | {2015-04-2-sud-lipez.tex}|  X| | |
