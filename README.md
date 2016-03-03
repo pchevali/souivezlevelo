@@ -52,9 +52,9 @@ Etat de progression des modifications
 | {2015-10-30-hong-kong.tex}| X  | | |
 | {2015-11-8-le-kerala-de-cochin-a-munnar.tex}|  X | | |
 | {2015-11-15-le-kerala-de-munnar-a-kovalam.tex}| X  | | |
-| {2015-11-25-le-tamil-nadu-de-kanyakumari-a-thanjavur.tex}|   | | |
-| {2015-12-2-pondichery-et-mahabalipuram.tex}|   | | |
-| {2015-12-13-auroville.tex}|   | | |
+| {2015-11-25-le-tamil-nadu-de-kanyakumari-a-thanjavur.tex}| X  | | |
+| {2015-12-2-pondichery-et-mahabalipuram.tex}|  X | | |
+| {2015-12-13-auroville.tex}|  X | | |
 | {2015-15-15-route-vers-bangalore.tex}|  X | | |
 | {2015-12-19-delhi-et-mariage-indien.tex}| X  | | |
 | {2015-12-23-aurangabad-et-hampi.tex}| X | | |
