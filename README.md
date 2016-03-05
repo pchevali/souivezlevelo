@@ -18,7 +18,7 @@ Etat de progression des modifications
 | {2015-03-11-santiago-du-chili.tex}|  X|X | |
 | {2015-03-14-valparaiso.tex}|  X|X | |
 | {2015-03-20-geysers-del-tatio.tex}|  X|X| |
-| {2015-04-2-sud-lipez.tex}|  X| | |
+| {2015-04-2-sud-lipez.tex}|  X|X | |
 | {2015-04-4-salar-duyuni.tex}|   X| | |
 | {2015-04-13-potosi.tex}|  X| | |
 | {2015-04-15-sucre.tex}|   X| | |
