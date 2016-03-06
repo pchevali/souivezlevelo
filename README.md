@@ -19,16 +19,16 @@ Etat de progression des modifications
 | {2015-03-14-valparaiso.tex}|  X|X | |
 | {2015-03-20-geysers-del-tatio.tex}|  X|X| |
 | {2015-04-2-sud-lipez.tex}|  X|X | |
-| {2015-04-4-salar-duyuni.tex}|   X| | |
-| {2015-04-13-potosi.tex}|  X| | |
-| {2015-04-15-sucre.tex}|   X| | |
-| {2015-04-28-cochabamba-et-le-parc-de-torotoro.tex}| X  | | |
-| {2015-05-11-la-paz-huayna-potosi-et-route-de-la-mort.tex}| X  | | |
-| {2015-05-19-le-lac-titicaca.tex}| X  | | |
-| {2015-05-22-la-route-puno-cusco.tex}| X  | | |
-| {2015-05-31-cusco-et-la-vallee-sacree-des-incas.tex}| X | | |
-| {2015-06-2-le-trek-du-salkantay-vers-le-machu-picchu.tex}|X | | |
-| {2015-06-5-lima.tex}| X  | | |
+| {2015-04-4-salar-duyuni.tex}|   X| o| |
+| {2015-04-13-potosi.tex}|  X| o| |
+| {2015-04-15-sucre.tex}|   X| o| |
+| {2015-04-28-cochabamba-et-le-parc-de-torotoro.tex}| X  | o| |
+| {2015-05-11-la-paz-huayna-potosi-et-route-de-la-mort.tex}| X  | o| |
+| {2015-05-19-le-lac-titicaca.tex}| X  | o| |
+| {2015-05-22-la-route-puno-cusco.tex}| X  | o| |
+| {2015-05-31-cusco-et-la-vallee-sacree-des-incas.tex}| X | o| |
+| {2015-06-2-le-trek-du-salkantay-vers-le-machu-picchu.tex}|X | o| |
+| {2015-06-5-lima.tex}| X  | o| |
 | {2015-06-13-huaraz-cordillera-blanca-et-trujillo.tex}|  X | | |
 | {2015-06-22-lequateur-de-cuenca-a-banos.tex}| X  | | |
 | {2015-06-29-lequateur-de-banos-a-quito.tex}| X  | | |
