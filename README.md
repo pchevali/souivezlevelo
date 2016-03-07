@@ -42,11 +42,11 @@ Etat de progression des modifications
 | {2015-08-7-de-tokyo-a-nagano.tex}|X   | X | |
 | {2015-08-15-de-nagano-a-gujo.tex}|  X | X | |
 | {2015-08-24-de-gujo-a-kyoto.tex}|  X | X | |
-| {2015-09-3-de-kyoto-a-osaka.tex}|   X| | |
-| {2015-09-14-shanghai.tex}|  X | | |
-| {2015-09-22-de-xian-a-jiuzhaigou.tex}|  X | | |
-| {2015-09-29-de-jiuzhaigou-a-chengdu.tex}|X   | | |
-| {2015-10-8-chengdu-emeishan-et-leshan.tex}| X  | | |
+| {2015-09-3-de-kyoto-a-osaka.tex}|   X|X | |
+| {2015-09-14-shanghai.tex}|  X | X| |
+| {2015-09-22-de-xian-a-jiuzhaigou.tex}|  X |X | |
+| {2015-09-29-de-jiuzhaigou-a-chengdu.tex}|X   | X | |
+| {2015-10-8-chengdu-emeishan-et-leshan.tex}| X  | X| |
 | {2015-10-16-province-du-guizhou.tex}| X  | | |
 | {2015-10-24-guilin-xingping-et-yangshuo.tex}| X  | | |
 | {2015-10-30-hong-kong.tex}| X  | | |
