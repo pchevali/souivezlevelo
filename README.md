@@ -55,9 +55,9 @@ Etat de progression des modifications
 | {2015-11-25-le-tamil-nadu-de-kanyakumari-a-thanjavur.tex}| X  |X | |
 | {2015-12-2-pondichery-et-mahabalipuram.tex}|  X |X | |
 | {2015-12-13-auroville.tex}|  X | X| |
-| {2015-15-15-route-vers-bangalore.tex}|  X | | |
-| {2015-12-19-delhi-et-mariage-indien.tex}| X  | | |
-| {2015-12-23-aurangabad-et-hampi.tex}| X | | |
+| {2015-15-15-route-vers-bangalore.tex}|  X | O| |
+| {2015-12-19-delhi-et-mariage-indien.tex}| X  | O| |
+| {2015-12-23-aurangabad-et-hampi.tex}| X | O| |
 | {2016-01-15-315-jours-9100km-7-pays.tex}| X  | | |
 | {tweets.tex}| X  |X | |
 
