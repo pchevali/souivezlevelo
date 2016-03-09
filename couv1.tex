@@ -1,0 +1,92 @@
+\documentclass[spinewidth=35mm,coverwidth=148mm,coverheight=210mm,bleedwidth=5mm,marklength=5mm]{bookcover}
+
+\usepackage{tikz}
+
+% Color
+\definecolor{RoyalBlue}{cmyk}{1, 0.50, 0, 0}
+
+% Font
+\renewcommand*\rmdefault{iwona}
+
+\begin{document}
+
+% Background
+\setbookcover{bgcolor}{whole}{color=RoyalBlue}
+
+% Front
+\setbookcover{fgfirst}{front}{
+\vspace{-10mm}
+%\hspace{10mm}
+\begin{minipage}{\textwidth}
+\begin{tikzpicture}
+\fill[white] (0,0) rectangle (20,10);
+%\shade[left color=RoyalBlue,right color=white] (0,0) rectangle (2,10);
+\end{tikzpicture}
+
+\vspace{-60mm}
+\hspace{10mm}
+\begin{minipage}{\textwidth}
+\textcolor{RoyalBlue}{\Huge \bf Suivez le V\'elo}
+
+\Large Volume 1 : les Am\'eriques
+\end{minipage}
+\vspace{10mm}
+
+\includegraphics[width=153mm]{P3162848.jpg}
+\end{minipage}
+
+\vfill
+
+\hspace{10mm}
+\textcolor{white}{\large R\'emi Carne}
+\vspace{20mm}
+}
+
+% Spine
+\setbookcover{fgfirst}{spine}{
+\vfill
+\centering
+\rotatebox[origin=c]{90}{
+\color{white} \huge \bf
+Suivez le v\'elo -- Volume 1 : les Am\'eriques
+}\vfill}
+
+% Back
+\setbookcover{fgfirst}{back}{
+\vspace{20mm}
+\hspace{20mm}
+\begin{minipage}{120mm}
+\color{white} \large
+\begin{minipage}{0.4\textwidth}
+R\'emi Carne
+
+~
+
+R\'emi, ing\'enieur \`a Toulouse et voyageur \`a v\'elo.
+
+~
+
+J'ai pos\'e un cong\'e sabbatique de 11 mois pour partir en voyage \`a v\'elo de f\'evrier \`a d\'ecembre 2015.
+\end{minipage}
+\hspace{10mm}
+\begin{minipage}{60mm}
+\includegraphics[width=60mm]{P3022492.jpg}
+\end{minipage}
+
+~
+
+7 pays travers\'es principalement en v\'elo mais aussi en bus, train ou avion. Des randos, du tourisme, un peu de volontariat et beaucoup de rencontres.
+\end{minipage}
+
+\vfill
+
+\begin{center}
+\color{white} \large
+suivezlevelo.fr
+\end{center}
+\vspace{20mm}
+}
+
+\makebookcover
+
+\end{document}
