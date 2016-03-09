@@ -1,0 +1,95 @@
+% Compiler sur www.sharelatex.com
+
+\documentclass[12pt,spinewidth=29.1mm,coverwidth=148mm,coverheight=210mm,bleedwidth=5mm,marklength=5mm]{bookcover}
+
+\usepackage{tikz}
+\usepackage{wrapfig}
+\usepackage{graphicx}
+\usepackage{adjustbox}
+
+% Color
+\definecolor{RoyalBlue}{cmyk}{1, 0.50, 0, 0}
+
+% Font
+\renewcommand*\rmdefault{iwona}
+
+\begin{document}
+
+% Background
+\setbookcover{bgcolor}{whole}{color=RoyalBlue}
+
+% Front
+\setbookcover{fgfirst}{front}{
+\vspace{-10mm}
+%\hspace{10mm}
+\begin{minipage}{\textwidth}
+\begin{tikzpicture}
+\fill[white] (0,0) rectangle (20,9.5);
+\end{tikzpicture}
+
+\vspace{-55mm}
+\hspace{10mm}
+\begin{minipage}{\textwidth}
+\textcolor{RoyalBlue}{\fontsize{40}{40}\selectfont \bf Suivez le v\'elo}
+
+\LARGE Volume 2 : l'Asie
+\end{minipage}
+\vspace{10mm}
+
+\includegraphics[width=153mm]{wpid-p9257131.jpg}
+\end{minipage}
+
+\vfill
+
+\hspace{10mm}
+\textcolor{white}{\Large \bf R\'emi Carne}
+\vspace{20mm}
+}
+
+% Spine
+\setbookcover{fgfirst}{spine}{
+\vfill
+\centering
+\rotatebox[origin=c]{90}{
+\color{white} \Huge \bf
+Suivez le v\'elo ~ -- ~ Volume 2 : l'Asie
+}
+\vspace{10mm}
+}
+
+% Back
+\setbookcover{fgfirst}{back}{
+\vspace{20mm}
+\centering
+\begin{minipage}{116mm}
+
+\begin{wrapfigure}{r}{50mm}
+\flushright
+\vspace{-1mm}
+\adjustbox{trim={0.75\width-0.75\height) 0 0.25\width-0.25\height) 0},clip}{\includegraphics[width=60mm]{P3022492.jpg}}
+\end{wrapfigure}
+
+\color{white} \large
+~
+
+R\'emi, ing\'enieur \`a Toulouse et voyageur \`a v\'elo.
+
+~
+
+J'ai pos\'e un cong\'e sabbatique de 11 mois pour partir en voyage \`a v\'elo de f\'evrier \`a d\'ecembre 2015.
+
+~
+
+Sept pays travers\'es, principalement en v\'elo mais aussi en bus, train ou avion. Des randos, du tourisme, un peu de volontariat et beaucoup de rencontres...
+\end{minipage}
+
+\vfill
+
+\color{white} \Large \bf
+suivezlevelo.fr
+\vspace{20mm}
+}
+
+\makebookcover
+
+\end{document}
